@@ -1,0 +1,11 @@
+D:\C#\GameList\MathGame\bin\Debug\MathGame.exe.config
+D:\C#\GameList\MathGame\bin\Debug\MathGame.exe
+D:\C#\GameList\MathGame\bin\Debug\MathGame.pdb
+D:\C#\GameList\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+D:\C#\GameList\MathGame\obj\Debug\MathGame.FrmStartGame.resources
+D:\C#\GameList\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\C#\GameList\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+D:\C#\GameList\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\C#\GameList\MathGame\obj\Debug\MathGame.exe
+D:\C#\GameList\MathGame\obj\Debug\MathGame.pdb
+D:\C#\GameList\MathGame\obj\Debug\MathGame.FrmMathGame.resources

@@ -1,0 +1,10 @@
+D:\C#\X_O_Game\bin\Debug\X_O_Game.exe.config
+D:\C#\X_O_Game\bin\Debug\X_O_Game.exe
+D:\C#\X_O_Game\bin\Debug\X_O_Game.pdb
+D:\C#\X_O_Game\obj\Debug\X_O_Game.csproj.AssemblyReference.cache
+D:\C#\X_O_Game\obj\Debug\X_O_Game.FrmX_O_Game.resources
+D:\C#\X_O_Game\obj\Debug\X_O_Game.Properties.Resources.resources
+D:\C#\X_O_Game\obj\Debug\X_O_Game.csproj.GenerateResource.cache
+D:\C#\X_O_Game\obj\Debug\X_O_Game.csproj.CoreCompileInputs.cache
+D:\C#\X_O_Game\obj\Debug\X_O_Game.exe
+D:\C#\X_O_Game\obj\Debug\X_O_Game.pdb
